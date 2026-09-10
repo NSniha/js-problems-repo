@@ -11,8 +11,3 @@ function repeatedDigitSum(n) {
 
     return n;
 }
-
-console.log(repeatedDigitSum(9875)); // 2
-console.log(repeatedDigitSum(123));  // 6
-console.log(repeatedDigitSum(9));    // 9
-console.log(repeatedDigitSum(0));    // 0
